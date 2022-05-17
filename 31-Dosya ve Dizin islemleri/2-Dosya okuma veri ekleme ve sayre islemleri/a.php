@@ -1,0 +1,1 @@
+<?php $isim = "Suleyman"; echo $isim;
